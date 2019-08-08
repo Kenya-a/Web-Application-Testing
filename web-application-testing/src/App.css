@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+.scoreBoard{
+  width: 58%;
+  margin: 10rem auto;
+  background-color: #0b5402;
+  color: white;
+  border-radius: 0.5rem;
+  margin-top: 10rem;
+  padding: 5rem;
+  border: 4px solid #aaaaaa;
+}
+
+.topRow {
+  display: flex;
+  justify-content: space-around;
+  place-items: center;
+  /* height: 20rem; */
+}
